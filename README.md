@@ -1,2 +1,2 @@
 # java
-java repository
+java repository for practice
