@@ -15,15 +15,6 @@ public class Challenge {
 		double step3Res = Step1Res + 20.0d;
 		System.out.println("step2Res");
 			
-	
-		
-		
-		
-		
-		
-		
-		
-		
 		
 
 	}

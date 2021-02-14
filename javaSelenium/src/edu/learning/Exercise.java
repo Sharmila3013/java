@@ -5,7 +5,7 @@ public class Exercise {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-int myFirstNum = 120;
+        int myFirstNum = 93;
 		
 		int FirstStrike = (myFirstNum%3);
 		int SecondStrike = (myFirstNum%5);
@@ -18,15 +18,15 @@ int myFirstNum = 120;
 		{
 			System.out.println("3 Strike, Divisible by 3,5,10");
 		}
-		else if((DivBy3 && DivBy5)) 
+		else if(DivBy3 && DivBy5) 
 		{
 			System.out.println("2 Strike, Divisible by 3,5");
 		}
-		else if((DivBy5 && DivBy10)) 
+		else if(DivBy5 && DivBy10)
 		{
 			System.out.println("2 Strike, Divisible by 5,10");
 		}
-		else if((DivBy3 && DivBy10)) 
+		else if(DivBy3 && DivBy10) 
 		{
 			System.out.println("2 Strike, Divisible by 3,10");
 		}
