@@ -1,6 +1,6 @@
 package edu.learning;
 
-public class IntOrLong {
+public class Integer {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
